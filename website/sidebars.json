@@ -6,12 +6,6 @@
       "session-memory",
       "sdk-less-framework"
     ],
-    "Workspaces": [
-      "workspace-intro",
-      "link-repo-resources",
-      "manage-workspace",
-      "sharing-workspaces"
-    ],
     "KintoBlocks": [
       "kintoblock-introduction",
       "kintoblock-builds",
@@ -20,14 +14,14 @@
       "manage-blocks",
       "advanced-usages"
     ],
-    "Deployments": [
-      "deployments-introduction",
-      "manage-deployments",
-      "environments",
-      "view-logs",
-      "manage-environments",
-      "deployment-status-history",
-      "accesing-endpoints"
+    "Deployment":[
+      "testdoc"
+    ],
+    "Workspace":[
+      "workspacekb",
+      "Content",
+      "testdoc"
+      
     ],
     "Docs": [
       "getting-started",
